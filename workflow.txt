@@ -1,0 +1,15 @@
+- set up CI & CD
+- populate edmunds data
+- accept user payments
+- user registration and login
+  // requires payment or token?
+- choose location
+  // choose multiple locations per account; payment required for each
+- see deals in your locations
+- modify your specified margin
+  // per location?
+- get email updates
+  // separate email margin?
+- get text updates
+  // separate text margin?
+  // associate sms number?
